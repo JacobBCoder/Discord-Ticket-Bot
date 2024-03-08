@@ -70,16 +70,3 @@ This is a simple example of code using this package.
 ```
 
 <br/>
-
-
-
-## Installation
-
-
- ### Click [here](https://www.youtube.com/channel/UCmkPzf-eAJsiuCh-5kz4Abw) to watch my YouTube video !
- ![](https://github.com/mrmotchy/stuff/blob/main/Bild_2021-06-14_181143.png?raw=true)
-
-
- ### Click [here](https://dsc.gg/dst74) to join my discord server !
- [![Setup](https://github.com/mrmotchy/stuff/blob/main/adada.gif?raw=true)](https://dsc.gg/dst74)
-
